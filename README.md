@@ -1,3 +1,5 @@
+ ![image](https://github.com/sanctitygeorge/Python_Azure_SQL/assets/40411079/cff3896e-6153-4ac5-b00e-a6bf2f779f5d)
+
  This project explains how connect to an Azure SQL database using Python script and extract data to a local repository. To do that, you can do the following:
 
 ✅ Create an SQL Server and deploy an Azure SQL DB 
