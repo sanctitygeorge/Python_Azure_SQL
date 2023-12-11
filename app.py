@@ -3,10 +3,10 @@ import pyodbc
 import pandas as pd
 
 # Configure SQL Server Connections Parameters
-server = 'tekglobe.database.windows.net'
-database = 'DevDB'
-username = 'myadmin'
-password = '@Password000'
+server = 'SQL Server Name'
+database = 'Database Name'
+username = 'SQL Server Username'
+password = 'SQL Server Password'
 driver= '{ODBC Driver 18 for SQL Server}'
 
 # cnxn = pyodbc.connect('DRIVER='+driver+';PORT=1433;SERVER='+server+';PORT=1443;DATABASE='+database+';UID='+username+';PWD='+ password)
