@@ -1,0 +1,7 @@
+pyodbc
+pandas
+SQLAlchemy
+fastapi
+uvicorn[standard]
+pydantic
+azure-identity
